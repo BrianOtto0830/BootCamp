@@ -24,6 +24,40 @@
   color: white;
 }
 
+.Parent{
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+}
+
+.Gambar{
+  display: flex;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+i{
+  color: blue;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.Tulisan{
+  text-align: left;
+  padding: 20px;
+}
+
+.Login{
+  margin-top: 40px;
+  width: 100px;
+  height: 50px;
+  color: black;
+  background-color: #EEEEEE;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 15pt;
+}
+
 .App-link {
   color: #61dafb;
 }
