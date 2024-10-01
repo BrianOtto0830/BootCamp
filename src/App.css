@@ -55,12 +55,24 @@ i{
   background-color: #EEEEEE;
   border-radius: 5px;
   display: inline-block;
-  font-size: 15pt;
+  font-size: 16pt;
 }
 
 .App-link {
   color: #61dafb;
 }
+
+.HeaderBorder {
+  border: 10px solid yellow; 
+  padding: 4px;
+  width: 500px;
+}
+
+
+.HeaderBorder-yellow {
+  border-color: yellow; 
+}
+
 
 @keyframes App-logo-spin {
   from {

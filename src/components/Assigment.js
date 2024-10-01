@@ -2,7 +2,6 @@ import React from 'react';
 import '../App.css';
 import gambar from '../asset/kodingakademi.png';
 
-
 export const Assignment = () => {
   return (
     <div>
